@@ -5,11 +5,11 @@
       "keywords": [
          "telegram",
          "anime",
-         "group",
+         "",
          "manager",
-         "Miku"
+     u"
       ],   
-   "repository": "https://github.com/h0daka/Miku-Nakano",
+no",
    "addons": [
       {
          "options": {
@@ -18,12 +18,12 @@
          "plan": "heroku-postgresql"
       }
    ],
-   "env": {
+   "en
       "TOKEN": {
          "description": "Your bot token. Get one from @BotFather duh",
          "required": true,
          "value": ""
-      },
+
       "API_ID": {
          "description": "Get API_ID from my.telegram.org, used for telethon based modules.",
          "required": true,
@@ -59,7 +59,7 @@
          "value": "-123456798"
       },
       "JOIN_LOGGER": {
-         "description": "A channel where bot will print who added it to what group, useful during debugging or spam handling.",
+         "defghjjjjhhjkijgghjikkkhfdrthbbchannel where bot will print who added it to what group, useful during debugging or spam handling.",
          "required": true,
          "value": "-123456798"
       },
